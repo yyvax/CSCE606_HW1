@@ -1,0 +1,27 @@
+Testing started at 22:26 ...
+/usr/local/Homebrew/Cellar/ruby/2.6.0_1/bin/ruby "/Users/CZ 1/.gem/ruby/2.6.0/bin/rspec" "/Users/CZ 1/RubymineProjects/untitled/hw-ruby-intro-master/spec/part1_spec.rb" --require teamcity/spec/runner/formatter/teamcity/formatter --format Spec::Runner::Formatter::TeamcityFormatter --example "Ruby intro part 1"
+Run options: include {:full_description=>/Ruby\ intro\ part\ 1/}
+
+12 examples, 0 failures, 12 passed
+
+Finished in 0.024205 seconds
+
+Process finished with exit code 0
+
+Testing started at 22:35 ...
+/usr/local/Homebrew/Cellar/ruby/2.6.0_1/bin/ruby "/Users/CZ 1/.gem/ruby/2.6.0/bin/rspec" "/Users/CZ 1/RubymineProjects/untitled/hw-ruby-intro-master/spec/part2_spec.rb" --require teamcity/spec/runner/formatter/teamcity/formatter --format Spec::Runner::Formatter::TeamcityFormatter
+
+10 examples, 0 failures, 10 passed
+
+Finished in 0.027302 seconds
+
+Process finished with exit code 0
+
+Testing started at 22:35 ...
+/usr/local/Homebrew/Cellar/ruby/2.6.0_1/bin/ruby "/Users/CZ 1/.gem/ruby/2.6.0/bin/rspec" "/Users/CZ 1/RubymineProjects/untitled/hw-ruby-intro-master/spec/part3_spec.rb" --require teamcity/spec/runner/formatter/teamcity/formatter --format Spec::Runner::Formatter::TeamcityFormatter
+
+12 examples, 0 failures, 12 passed
+
+Finished in 0.026535 seconds
+
+Process finished with exit code 0
